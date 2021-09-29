@@ -3,9 +3,9 @@ Personal proyect which purpose is to demostrate the implementation of multiple h
 
 ## Execution
 
-~~~sh
+
 ```
 cd src
 python main.py
 ```
-~~~
+
