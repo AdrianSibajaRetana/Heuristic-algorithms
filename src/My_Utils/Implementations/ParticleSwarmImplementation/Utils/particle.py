@@ -11,4 +11,4 @@ class Particle:
         self.best_solution = current_solution
 
     def PrintParticle(self, particle_index):
-        print(f"X{particle_index} = ({self.x}, {self.y}), f(x_{particle_index}) = {self.current_solution}")
+        print(f"X{particle_index} = ({self.x: 3f}, {self.y: 3f}), f(x_{particle_index}) = {self.current_solution: 5f}")
