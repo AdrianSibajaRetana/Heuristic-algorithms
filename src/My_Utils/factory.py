@@ -1,4 +1,4 @@
-from My_Utils.Implementations.particleSwarm import ParticleSwarmAlgorithm
+from My_Utils.Implementations.ParticleSwarmImplementation.particleSwarm import ParticleSwarmAlgorithm
 from My_Utils import constants
 
 class HeuristicAlgorithmFactory:
